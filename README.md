@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/tamagorengs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tamagorengs" height="30" width="40" /></a>
 <a href="https://fb.com/tamagorengs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamagorengs" height="30" width="40" /></a>
 <a href="https://instagram.com/tamagorengs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamagorengs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/AizzatAzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tamagorengs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/TamaGorengs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tamagorengs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
